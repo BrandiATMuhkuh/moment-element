@@ -20,10 +20,10 @@
   },
   "license": "MIT",
   "main": "moment-element.html",
-  "homepage": "http://bendavis78.github.io/moment-element/",
+  "homepage": "https://github.com/BrandiATMuhkuh/moment-element/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bendavis78/moment-element.git"
+    "url": "git://github.com/BrandiATMuhkuh/moment-element.git"
   },
   "devDependencies": {
     "paper-styles": "PolymerElements/paper-styles#2.0-preview",
